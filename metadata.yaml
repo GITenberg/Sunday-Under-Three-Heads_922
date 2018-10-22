@@ -1,5 +1,5 @@
 _repo: Sunday-Under-Three-Heads_922
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 922-h/images/coverb.jpg
@@ -27,6 +27,7 @@ subjects:
 - !lcc 'BV'
 - !lcsh 'England -- Social life and customs -- 19th century'
 - !lcsh 'Sunday'
+- GITenberg
 tableOfContents: As it is -- As Sabbath bills would make it -- As it might be made.
 title: Sunday Under Three Heads
 url: http://www.gutenberg.org/ebooks/922
